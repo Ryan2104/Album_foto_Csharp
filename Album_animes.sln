@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "album_anime", "multi_telas\album_anime.csproj", "{889E5F2C-6017-46E8-8346-011BE307725F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Album_animes", "Album_animes", "{A21C8996-070D-4A41-8310-F3551FFB6FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889E5F2C-6017-46E8-8346-011BE307725F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889E5F2C-6017-46E8-8346-011BE307725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889E5F2C-6017-46E8-8346-011BE307725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889E5F2C-6017-46E8-8346-011BE307725F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{889E5F2C-6017-46E8-8346-011BE307725F} = {A21C8996-070D-4A41-8310-F3551FFB6FDA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE05456-7364-48D2-B36A-2CAD4ED6EB1F}
+	EndGlobalSection
+EndGlobal
